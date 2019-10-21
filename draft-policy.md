@@ -9,7 +9,7 @@ City of Burlington - Draft Open Data Policy
 
 *WHEREAS, making open data available online for reuse and consumption promotes a higher level of civic engagement and allows citizens to provide valuable feedback to government officials regarding local issues; and*
 
-*WHERAS, the Mayor would like to improve and enhance the City’s Open Data program; and* 
+*WHEREAS, the Mayor would like to improve and enhance the City’s Open Data program; and* 
 
 *WHEREAS, in commitment to the spirit of open government, the City will consider public information to be open by default and will strive to proactively publish City datasets and data containing relevant information on City operations or programs, consistent with relevant public records law while safeguarding sensitive data (i.e., Personally Identifiable Information); and*
 
